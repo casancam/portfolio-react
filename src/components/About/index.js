@@ -45,7 +45,7 @@ const About = () => {
                         perpetually working on improving my chops one design
                         problem at a time.
                     </p>
-                    <p>More info about me later.</p>
+                    <p>Check out my projects in the Portfolio Page.</p>
                 </div>
 
                 <div className="stage-cube-cont">

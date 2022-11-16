@@ -1,0 +1,30 @@
+.project-grid {
+    position: absolute;
+    right: 30%;
+    width: auto;
+    padding: 20px;
+    color: #fff;
+    font-family: 'Helvetica';
+    font-size: 12px;
+    opacity: 1;
+    animation: fadeIn 1s 1.5s;
+    animation-fill-mode: forwards;
+    float: right;
+    height: 100%;
+
+    h1 {
+        color: #ffd700;
+        font-size: 33px;
+        margin: 0;
+        font-family: 'Coolvetica';
+        font-weight: 400;
+    }
+
+    a {
+        color: #fff;
+
+        &:hover {
+            color: #ffd700;
+        }
+    }
+}
